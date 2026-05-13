@@ -35,4 +35,5 @@ The system shows current time and date. Between minutes 5-7 of each hour, it tri
 - Store time in EEPROM to survive reboots
 ---
 **made by amiraligrr** https://amiraligrr.ir
-**see also https://zp.amiraligrr.ir**
+---
+**see also http://zp.amiraligrr.ir**
