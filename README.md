@@ -34,5 +34,5 @@ The system shows current time and date. Between minutes 5-7 of each hour, it tri
 - Make alert time configurable via buttons
 - Store time in EEPROM to survive reboots
 ---
-**made by amiraligrr ** https://amiraligrr.ir
+**made by amiraligrr** https://amiraligrr.ir
 **see also https://zp.amiraligrr.ir**
